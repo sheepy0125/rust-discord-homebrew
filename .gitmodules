@@ -1,0 +1,6 @@
+[submodule "discord-homebrew-proxy"]
+	path = discord-homebrew-proxy
+	url = https://github.com/sheepy0125/discord-homebrew-proxy.git
+[submodule "discord-homebrew-app"]
+	path = discord-homebrew-app
+	url = https://github.com/sheepy0125/discord-homebrew-app.git
